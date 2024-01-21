@@ -14,6 +14,3 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-
-2024 MR.
-HUYNH NAM
